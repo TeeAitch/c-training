@@ -1,0 +1,7 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/tolga/c-training/hashtable'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
+make: Leaving directory '/home/tolga/c-training/hashtable'
+ 
