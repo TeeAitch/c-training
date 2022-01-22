@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/tolga/c-training/double_linked_list'
+make: Leaving directory '/home/tolga/c-training/double_linked_list'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
